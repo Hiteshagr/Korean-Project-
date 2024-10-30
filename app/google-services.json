@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011122812537",
+    "project_id": "korean-lifestyle",
+    "storage_bucket": "korean-lifestyle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011122812537:android:dfbe6b455f8c41044a86a8",
+        "android_client_info": {
+          "package_name": "com.example.koreanlifestyle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvoLUh8mmwgpyOJ_mDS0PD0zhtPWuY6Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
